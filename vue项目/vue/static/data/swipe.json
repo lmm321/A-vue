@@ -1,0 +1,187 @@
+{
+  "control": {
+    "expires": 1800
+    },
+    "status": 0,
+    "data": {
+    "hasNext": false,
+    "swipe":[{
+        "title":"上新",
+        "sx1":"http://img540.5lux.com.cn/2016/08/31/ij/147263296079_50x50.png",
+       
+         
+        "img":"http://img550.5lux.com.cn/2018/11/21/qr/154280581691_750x825.jpg"
+    },{
+        "title":"海外馆",
+        "sx1":"http://img540.5lux.com.cn/2016/08/31/uv/147263295236_50x50.png",
+       
+    
+        "img":"http://img550.5lux.com.cn/2018/11/20/uv/154269577334_750x825.jpg"
+    },{
+        "title":"值得买",
+        "sx1":"http://img550.5lux.com.cn/2016/09/29/lm/147513080365_50x50.png",
+    
+        
+        "img":"http://img550.5lux.com.cn/2018/11/19/fg/154259626212_750x825.jpg"
+    },{
+        "title":"闪购",
+        "sx1":"http://img540.5lux.com.cn/2016/08/31/pq/147263295897_50x50.png",
+        
+       
+        "img":"http://img550.5lux.com.cn/2018/11/16/rs/154236493020_750x825.jpg"
+    },{
+        "title":"品牌",
+        "sx1":"http://img540.5lux.com.cn/2016/08/31/kl/147263295698_50x50.png",
+        "img":"http://img550.5lux.com.cn/2018/11/16/rs/154236493020_750x825.jpg"
+    }],
+    "c1":[{
+        "ss":"http://img550.5lux.com.cn/2017/03/31/ij/149095371483_170x170.jpg",
+        "c1":"http://img550.5lux.com.cn/2018/11/21/np/154279452165_368x260.jpg"
+    },{
+        "ss":"http://img550.5lux.com.cn/2017/03/31/qr/149095371397_170x170.jpg",
+        "c1":"http://img550.5lux.com.cn/2018/11/21/pq/154279452073_368x260.jpg"
+    },{
+        "ss":"http://img550.5lux.com.cn/2017/03/31/np/149095371411_170x170.jpg",
+        "c1":"http://img550.5lux.com.cn/2018/11/19/kl/154262411354_368x260.jpg"
+    },{
+        "ss":"http://img550.5lux.com.cn/2017/03/31/rs/149095371490_170x170.jpg",
+        "c1":"http://img550.5lux.com.cn/2018/11/14/rs/154218594331_368x260.jpg"
+    }],
+    "xr":[{
+        "xr":"http://img550.5lux.com.cn/2018/10/23/tu/154027471613_750x586.jpg"
+    },{
+        "xr":"http://img550.5lux.com.cn/2018/10/15/qr/153958790359_750x586.jpg"
+    }],
+    "mskb":[{
+        "ms":"http://img550.5lux.com.cn/2018/11/20/jk/154270572442_750x586.jpg"
+    }],
+    "gl":[{
+        "title":"GELEISTORY 歌蕾",
+        "img":"http://img550.5lux.com.cn/2018/07/26/de/153259183634_800x800_350x350.jpg",
+        "img1":"http://img550.5lux.com.cn/2017/02/28/kl/148824419472_800x800_350x350.jpg",
+        "title1":"Make Up For Ever玫珂菲",
+        "sprice1":"￥377",
+        "img2":"http://img550.5lux.com.cn/2017/12/07/qr/151262745949_800x800_350x350.jpg",
+        "title2":"Sophie & Stephie (SS)",
+        "sprice2":"￥1398",
+        "img3":"http://img550.5lux.com.cn/2018/11/10/wx/154181183241_1571x2000.JPG",
+        "title3":"SANTONI",
+        "sprice3":"￥6379",
+        "img4":"http://img550.5lux.com.cn/2018/11/20/ij/154270470933_800x800_350x350.jpg",
+        "title4":"Van Gogh梵高",
+        "sprice4":"￥6379",
+        "sprice":"￥169"
+    },{
+        "title":"GELEISTORY 歌蕾",
+        "img":"http://img550.5lux.com.cn/2018/07/27/fg/153266315382_2862x2862_350x350.jpg",
+        "sprice":"￥149",
+        "img1":"http://img550.5lux.com.cn/2017/02/23/rs/148784344174_800x800_350x350.jpg",
+        "title1":"Chanel香奈儿",
+        "sprice1":"￥355",
+        "img2":"http://img550.5lux.com.cn/2018/09/05/hi/153612649190_800x800_350x350.jpg",
+        "title2":"Sophie & Stephie (SS)",
+        "img3":"http://img550.5lux.com.cn/2018/11/11/uv/154188022717_1571x2000.JPG",
+        "title3":"BRIAN DALES",
+        "sprice3":"￥2149",
+        "img4":"http://img550.5lux.com.cn/2018/11/21/wx/154278543710_800x800_350x350.jpg",
+        "title4":"Van Gogh梵高",
+        "sprice4":"￥6379",
+        "sprice2":"￥519"
+    },{
+        "title":"GELEISTORY 歌蕾",
+        "img":"http://img550.5lux.com.cn/2018/07/26/hi/153259083814_800x800_350x350.jpg",
+        "sprice":"￥109",
+        "img1":"http://img550.5lux.com.cn/2016/11/30/jk/148049858826_800x800_350x350.jpg",
+        "title1":"Givenchy纪梵希",
+        "sprice1":"￥399",
+        "img2":"http://img550.5lux.com.cn/2018/09/13/pq/153680145597_800x800_350x350.jpg",
+        "title2":"Sophie & Stephie (SS)",
+        "img3":"http://img550.5lux.com.cn/2018/11/11/qr/154187976847_1571x2000.JPG",
+        "title3":"CHURCH'S",
+        "sprice3":"￥2933",
+        "img4":"http://img550.5lux.com.cn/2018/11/19/rs/154262029359_800x800_350x350.jpg",
+        "title4":"Van Gogh梵高",
+        "sprice4":"￥6379",
+        "sprice2":"￥559"
+    },{
+        "title":"Estee Lauder雅诗兰黛",
+        "img":"http://img550.5lux.com.cn/2017/01/07/uv/148377507075_800x800_350x350.jpg",
+        "sprice":"￥129",
+        "img1":"http://img550.5lux.com.cn/2017/12/20/kl/151375575361_800x800_350x350.jpg",
+        "title1":"Dior迪奥",
+        "sprice1":"￥276",
+        "img2":"http://img550.5lux.com.cn/2018/09/19/pq/153733603557_800x800_350x350.jpg",
+        "title2":"Sophie & Stephie (SS)",
+        "img3":"http://img550.5lux.com.cn/2018/11/11/gh/154188002843_1571x2000.JPG",
+        "title3":"OFFICINE CREATIVE ITALIA",
+        "sprice3":"￥4039",
+        "img4":"http://img550.5lux.com.cn/2018/11/23/jk/154296047119_800x800_350x350.jpg",
+        "title4":"Van Gogh梵高",
+        "sprice4":"￥6379",
+        "sprice2":"￥789"
+    },{
+        "title":"Diptyque 蒂普提克",
+        "img":"http://img550.5lux.com.cn/2016/09/29/st/147513418550_800x800_350x350.jpg",
+        "sprice":"￥465",
+        "img1":"http://img550.5lux.com.cn/2017/06/30/jk/149880098599_800x800_350x350.png",
+        "title1":"Guerlain娇兰",
+        "sprice1":"￥238",
+        "img2":"http://img550.5lux.com.cn/2018/09/26/qr/153794404837_800x800_350x350.jpg",
+        "title2":"Sophie & Stephie (SS)",
+        "img3":"http://img550.5lux.com.cn/2018/11/11/rs/154188198086_1571x2000.JPG",
+        "title3":"ALEXANDER HOTTO",
+        "sprice3":"￥1939",
+        "img4":"http://img550.5lux.com.cn/2018/11/21/pq/154278364551_800x800_350x350.jpg",
+        "title4":"Van Gogh梵高",
+        "sprice4":"￥6379",
+        "sprice2":"￥789"
+    },{
+        "title":"Diptyque 蒂普提克",
+        "img":"http://img550.5lux.com.cn/2018/07/27/jk/153267361494_800x800_350x350.jpg",
+        "sprice":"￥109",
+        "img1":"http://img550.5lux.com.cn/2018/05/02/bc/152524847597_800x800_350x350.jpg",
+        "title1":"Chanel香奈儿",
+        "sprice1":"￥300",
+        "img2":"http://img550.5lux.com.cn/2018/01/09/mn/151548115489_800x800_350x350.jpg",
+        "title2":"Sophie & Stephie (SS)",
+        "img3":"http://img550.5lux.com.cn/2018/11/10/de/154184757241_1571x2000.JPG",
+        "title3":"John Varvatos 约翰·瓦维托斯",
+        "sprice3":"￥5089",
+        "img4":"http://img550.5lux.com.cn/2018/11/20/de/154270708629_800x800_350x350.jpg",
+        "title4":"Van Gogh梵高",
+        "sprice4":"￥6379",
+        "sprice2":"￥789"
+    },{
+        "title":"Diptyque 蒂普提克",
+        "img":"http://img550.5lux.com.cn/2016/09/29/st/147513682338_1634x1634_350x350.jpg",
+        "sprice":"￥795",
+        "img1":"http://img550.5lux.com.cn/2016/12/02/de/148066185689_800x800_200x200.jpg",
+        "title1":"Armani阿玛尼",
+        "sprice1":"￥340",
+        "img2":"http://img550.5lux.com.cn/2018/11/08/tu/154166414021_800x800_350x350.jpg",
+        "title2":"Sophie & Stephie (SS)",
+        "img3":"http://img550.5lux.com.cn/2018/11/10/ab/154181700652_1571x2000.JPG",
+        "title3":"Sutor Mantellassi",
+        "sprice3":"￥3099",
+        "img4":"http://img550.5lux.com.cn/2018/11/22/rs/154287625537_800x800_350x350.jpg",
+        "title4":"Van Gogh梵高",
+        "sprice4":"￥6379",
+        "sprice2":"￥1399"
+    }],
+    "kh":[{
+        "img":"http://img550.5lux.com.cn/2018/11/21/jk/154276977627_750x586.jpg",
+        "img1":"http://img550.5lux.com.cn/2018/11/15/uv/154226853056_750x586.jpg",
+        "img2":"http://img550.5lux.com.cn/2018/11/15/ab/154224670953_750x586.jpg",
+        "img3":"http://img550.5lux.com.cn/2018/10/23/ij/154027471566_750x586.jpg",
+        "title6":"诠释经典，不朽梵高",
+        "title7":"以梵高名画作设计元素的梵高腕表，将梵高的热情注入腕表创作，把梵高的艺术精神带入现代世界，让大家都可以切身感受到梵高的精神，重新诠释艺术的意义。",
+        "title2":"解锁冬日的优雅穿搭！",
+        "title3":"冬天到了，你的冬衣准备好了吗？一到冬天满街都是黑白灰，无味又没有新意，大面积的亮色又太不实穿。",
+        "title4":"商务鞋履新潮流",
+        "title5":"鞋子是看一个男人成就、可信度、社会背景、教养的检验代表,所以鞋子的选搭和保养尤为关键！精简到极致，无论你喜欢收藏多少双，至少要有双绅士鞋。能把绅士皮鞋穿好的男人走哪都是让人心动的。",
+        "title1":"唇“诱“魅力",
+        "title":"唇釉可谓是女人化妆包里最必不可少的单品，涂抹唇釉后能使女人原本黯淡无光的面容立即变得精神焕光、生动可人。不过对于唇釉还是要求质地莹润、颜色饱满诱人。一抹立体显色，为双唇注入自然饱满丰盈，焕发难以抵挡的"
+    }]
+    
+}
+}
